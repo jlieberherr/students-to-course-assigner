@@ -9,4 +9,4 @@ Script to assign students to courses using the CP-SAT solver of OR-Tools. Every 
 - ```cd students-to-course-assigner```
 - install the necessary modules: ```pip install -r requirements.txt```
 - run Jupyter lab: ```jupyter lab```
-- execute the assigner in Jupyter lab
+- execute the assigner in ```assigner.ipynb```
